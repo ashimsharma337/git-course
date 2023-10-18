@@ -1,7 +1,7 @@
 add and remove users 
 change the roles
 manage the database
-closing the database connection 2
+closing the mysql database connection 2
 
 change 1
 change 2 in har's database
